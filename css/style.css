@@ -7435,7 +7435,7 @@ h1, h2, h3, h4, h5,
       width: 100% !important; } }
   .ftco-cover a {
     position: relative;
-    color: #fff; }
+     }
   .ftco-cover.overlay {
     position: relative; }
     .ftco-cover.overlay:before {
@@ -9133,3 +9133,8 @@ display: flex;
 .footer-colorlib {
     margin-top: 5vh;
 }
+
+.under-form a {
+    color: rgba(0, 0, 0, 0.3); }
+    .under-form a:hover {
+      color: #fb5660; }
