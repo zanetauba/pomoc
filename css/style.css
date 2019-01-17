@@ -9035,7 +9035,7 @@ span#b-5:focus ~ .slider .inset { margin-left:-400%; }
 }
 
 phone-icon a {
-    height: 2vh;
+  height: 2vh;
   margin-left: 2vw;
   font-size: 4vh;
   color: red;
@@ -9049,51 +9049,50 @@ phone-icon a {
 }
 
 #section-home {
-    margin-bottom: 5vh;
+  margin-bottom: 5vh;
 }
 
 #icons-about {
-    margin-top: 3vh;
-    margin-bottom: 4vh;
+  margin-top: 3vh;
+  margin-bottom: 4vh;
 }
 
 #falko {
-    font-size: 12vh;
+  font-size: 12vh;
 }
 
 #pomoc {
-    font-size: 5vh;
-    margin-top: 10vh;
-    text-align: center;
-    opacity: 0.8;
+  font-size: 5vh;
+  margin-top: 10vh;
+  text-align: center;
+  opacity: 0.8;
 }
 
 #subtitle {
-    font-size: 3vh;
-    opacity: 0.6;
+  font-size: 3vh;
+  opacity: 0.6;
 }
 
 #number {
-    font-size: 4vh;
+  font-size: 4vh;
 }
 
 #number:hover {
-    color: red;
+  color: red;
 }
 
 
 #call-us {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 
 .contact-me {
 display: flex;
-  flex-direction: column;
-    justify-content: center;
-    align-content: center;
-
+flex-direction: column;
+justify-content: center;
+align-content: center;
 }
 
 .email {
@@ -9112,10 +9111,9 @@ display: flex;
 }
 
 .send {
-   margin-bottom: 3vh;
+  margin-bottom: 3vh;
   margin-left: 3vw;
   width: 10vw;
-
 }
 
 #contact {
@@ -9126,18 +9124,18 @@ display: flex;
 }
 
 .header-contact {
-    margin-bottom: 3vh;
-    margin-top: 3vh;
+  margin-bottom: 3vh;
+  margin-top: 3vh;
 }
 
 .footer-colorlib {
-    margin-top: 5vh;
+  margin-top: 5vh;
 }
 
 .under-form a {
-    color: rgba(0, 0, 0, 0.3); }
-    .under-form a:hover {
-      color: #fb5660; }
+  color: rgba(0, 0, 0, 0.3); }
+.under-form a:hover {
+  color: #fb5660; }
 
 .o-nas {
   font-size: 4vh;  
